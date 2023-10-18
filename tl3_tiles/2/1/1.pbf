@@ -1,0 +1,3783 @@
+ﬁºx
+tl3_oecd_interior_boundaries(Ä tl3_idiso3name_en"
+Ave"
+CAN"
+COL"
+CRI"
+ESP"
+FRA"
+GBR"
+IRL"
+ISL"
+Lot"
+MEX"
+PRT"
+USA"
+Aude"
+Eure"
+Gers"
+Grey"
+Kent"
+Lugo"
+Oise"
+Orne"
+Peel"
+Tarn"
+West"
+York"
+Acton"
+Brant"
+Brent"
+Bruce"
+CR010"
+CR020"
+CR030"
+CR040"
+CR050"
+CR060"
+Derby"
+Digby"
+Douro"
+ES111"
+ES112"
+ES113"
+ES114"
+ES120"
+ES130"
+ES211"
+ES212"
+ES213"
+ES220"
+ES230"
+ES241"
+ES242"
+ES243"
+ES300"
+ES411"
+ES412"
+ES413"
+ES414"
+ES415"
+ES416"
+ES417"
+ES418"
+ES419"
+ES421"
+ES422"
+ES423"
+ES424"
+ES425"
+ES431"
+ES432"
+ES511"
+ES512"
+ES513"
+ES514"
+ES521"
+ES522"
+ES523"
+ES611"
+ES612"
+ES613"
+ES614"
+ES615"
+ES616"
+ES617"
+ES618"
+ES620"
+Elgin"
+Essex"
+FR103"
+FR108"
+FRB02"
+FRB03"
+FRB04"
+FRB05"
+FRB06"
+FRD11"
+FRD12"
+FRD13"
+FRD21"
+FRD22"
+FRE12"
+FRE22"
+FRE23"
+FRG01"
+FRG02"
+FRG03"
+FRG04"
+FRG05"
+FRH01"
+FRH02"
+FRH03"
+FRH04"
+FRI11"
+FRI12"
+FRI13"
+FRI14"
+FRI15"
+FRI21"
+FRI22"
+FRI23"
+FRI31"
+FRI32"
+FRI33"
+FRI34"
+FRJ11"
+FRJ21"
+FRJ23"
+FRJ24"
+FRJ25"
+FRJ26"
+FRJ27"
+FRJ28"
+Hants"
+Huron"
+IE041"
+IE042"
+IE051"
+IE052"
+IE053"
+IE061"
+IE062"
+IE063"
+IS011"
+IS021"
+IS022"
+IS023"
+IS024"
+IS025"
+IS026"
+IS027"
+Indre"
+Ja√©n"
+Kings"
+Leeds"
+Le√≥n"
+Luton"
+Oeste"
+PT111"
+PT112"
+PT119"
+PT11A"
+PT11B"
+PT11C"
+PT11D"
+PT11E"
+PT150"
+PT16B"
+PT16D"
+PT16E"
+PT16F"
+PT16G"
+PT16H"
+PT16I"
+PT16J"
+PT170"
+PT181"
+PT184"
+PT185"
+PT186"
+PT187"
+Perth"
+Powys"
+Somme"
+Soria"
+UKC11"
+UKC12"
+UKC13"
+UKC14"
+UKC21"
+UKC22"
+UKC23"
+UKD11"
+UKD12"
+UKD33"
+UKD34"
+UKD35"
+UKD36"
+UKD37"
+UKD41"
+UKD42"
+UKD44"
+UKD45"
+UKD46"
+UKD47"
+UKD61"
+UKD62"
+UKD63"
+UKD71"
+UKD72"
+UKD73"
+UKD74"
+UKE11"
+UKE12"
+UKE13"
+UKE21"
+UKE22"
+UKE31"
+UKE32"
+UKE41"
+UKE42"
+UKE44"
+UKE45"
+UKF11"
+UKF12"
+UKF13"
+UKF14"
+UKF15"
+UKF16"
+UKF21"
+UKF22"
+UKF24"
+UKF25"
+UKF30"
+UKG11"
+UKG12"
+UKG13"
+UKG21"
+UKG22"
+UKG23"
+UKG24"
+UKG31"
+UKG32"
+UKG33"
+UKG36"
+UKG37"
+UKG38"
+UKG39"
+UKH11"
+UKH12"
+UKH14"
+UKH15"
+UKH16"
+UKH17"
+UKH21"
+UKH23"
+UKH24"
+UKH25"
+UKH31"
+UKH32"
+UKH34"
+UKH35"
+UKH36"
+UKH37"
+UKI31"
+UKI32"
+UKI33"
+UKI34"
+UKI41"
+UKI42"
+UKI43"
+UKI44"
+UKI45"
+UKI51"
+UKI52"
+UKI53"
+UKI54"
+UKI61"
+UKI62"
+UKI63"
+UKI71"
+UKI72"
+UKI73"
+UKI74"
+UKI75"
+UKJ11"
+UKJ12"
+UKJ13"
+UKJ14"
+UKJ21"
+UKJ22"
+UKJ25"
+UKJ26"
+UKJ27"
+UKJ28"
+UKJ31"
+UKJ32"
+UKJ35"
+UKJ36"
+UKJ37"
+UKJ41"
+UKJ43"
+UKJ44"
+UKJ45"
+UKJ46"
+UKK11"
+UKK12"
+UKK13"
+UKK14"
+UKK15"
+UKK23"
+UKK24"
+UKK25"
+UKK30"
+UKK41"
+UKK42"
+UKK43"
+UKL12"
+UKL13"
+UKL14"
+UKL15"
+UKL16"
+UKL17"
+UKL18"
+UKL21"
+UKL22"
+UKL23"
+UKL24"
+UKM50"
+UKM61"
+UKM62"
+UKM63"
+UKM71"
+UKM72"
+UKM73"
+UKM75"
+UKM76"
+UKM77"
+UKM78"
+UKM81"
+UKM82"
+UKM83"
+UKM84"
+UKM91"
+UKM92"
+UKM93"
+UKM94"
+UKM95"
+UKN06"
+UKN07"
+UKN08"
+UKN09"
+UKN0A"
+UKN0B"
+UKN0C"
+UKN0D"
+UKN0E"
+UKN0F"
+UKN0G"
+US003"
+US004"
+US006"
+US009"
+US010"
+US011"
+US012"
+US014"
+US015"
+US019"
+US022"
+US023"
+US024"
+US025"
+US027"
+US028"
+US029"
+US030"
+US031"
+US032"
+US033"
+US034"
+US035"
+US037"
+US038"
+US039"
+US040"
+US043"
+US044"
+US047"
+US048"
+US049"
+US050"
+US052"
+US054"
+US060"
+US062"
+US064"
+US066"
+US067"
+US068"
+US069"
+US070"
+US071"
+US072"
+US076"
+US078"
+US079"
+US080"
+US081"
+US082"
+US088"
+US089"
+US090"
+US094"
+US096"
+US098"
+US100"
+US101"
+US102"
+US103"
+US105"
+US106"
+US108"
+US109"
+US112"
+US113"
+US114"
+US115"
+US116"
+US117"
+US118"
+US121"
+US122"
+US123"
+US125"
+US126"
+US127"
+US129"
+US130"
+US133"
+US137"
+US138"
+US139"
+US148"
+US149"
+US151"
+US156"
+US158"
+US159"
+US160"
+US161"
+US162"
+US163"
+US164"
+US166"
+US168"
+US171"
+US173"
+US174"
+US175"
+US176"
+Albert"
+Algoma"
+Baffin"
+Barnet"
+Biscay"
+Border"
+Brunca"
+Burgos"
+CA1001"
+CA1002"
+CA1003"
+CA1004"
+CA1005"
+CA1006"
+CA1007"
+CA1008"
+CA1009"
+CA1010"
+CA1011"
+CA1101"
+CA1102"
+CA1103"
+CA1201"
+CA1202"
+CA1203"
+CA1204"
+CA1205"
+CA1206"
+CA1207"
+CA1208"
+CA1209"
+CA1210"
+CA1211"
+CA1212"
+CA1213"
+CA1214"
+CA1215"
+CA1216"
+CA1217"
+CA1218"
+CA1301"
+CA1302"
+CA1303"
+CA1304"
+CA1305"
+CA1306"
+CA1307"
+CA1308"
+CA1309"
+CA1310"
+CA1311"
+CA1312"
+CA1313"
+CA1314"
+CA1315"
+CA2402"
+CA2403"
+CA2404"
+CA2405"
+CA2406"
+CA2407"
+CA2408"
+CA2409"
+CA2410"
+CA2411"
+CA2412"
+CA2413"
+CA2414"
+CA2415"
+CA2416"
+CA2417"
+CA2418"
+CA2419"
+CA2421"
+CA2422"
+CA2423"
+CA2425"
+CA2426"
+CA2427"
+CA2428"
+CA2429"
+CA2430"
+CA2431"
+CA2432"
+CA2433"
+CA2434"
+CA2435"
+CA2436"
+CA2437"
+CA2438"
+CA2439"
+CA2440"
+CA2441"
+CA2442"
+CA2443"
+CA2444"
+CA2445"
+CA2446"
+CA2447"
+CA2448"
+CA2449"
+CA2450"
+CA2451"
+CA2452"
+CA2453"
+CA2454"
+CA2455"
+CA2456"
+CA2457"
+CA2458"
+CA2459"
+CA2460"
+CA2461"
+CA2462"
+CA2463"
+CA2464"
+CA2467"
+CA2468"
+CA2469"
+CA2470"
+CA2471"
+CA2472"
+CA2473"
+CA2474"
+CA2475"
+CA2476"
+CA2477"
+CA2478"
+CA2479"
+CA2480"
+CA2481"
+CA2482"
+CA2483"
+CA2484"
+CA2485"
+CA2486"
+CA2487"
+CA2488"
+CA2489"
+CA2490"
+CA2491"
+CA2492"
+CA2493"
+CA2494"
+CA2495"
+CA2496"
+CA2497"
+CA2498"
+CA2499"
+CA3501"
+CA3502"
+CA3506"
+CA3507"
+CA3509"
+CA3510"
+CA3511"
+CA3512"
+CA3513"
+CA3514"
+CA3515"
+CA3516"
+CA3518"
+CA3519"
+CA3520"
+CA3521"
+CA3522"
+CA3523"
+CA3524"
+CA3525"
+CA3526"
+CA3528"
+CA3529"
+CA3530"
+CA3531"
+CA3532"
+CA3534"
+CA3536"
+CA3537"
+CA3538"
+CA3539"
+CA3540"
+CA3541"
+CA3542"
+CA3543"
+CA3544"
+CA3546"
+CA3547"
+CA3548"
+CA3549"
+CA3551"
+CA3552"
+CA3553"
+CA3554"
+CA3556"
+CA3557"
+CA3558"
+CA3559"
+CA3560"
+CA4622"
+CA4623"
+CA6204"
+CA6205"
+CA6208"
+CO0501"
+CO0502"
+CO0503"
+CO0504"
+CO0505"
+CO0506"
+CO0507"
+CO0508"
+CO0509"
+CO0801"
+CO0802"
+CO0803"
+CO0804"
+CO1101"
+CO1301"
+CO1302"
+CO1303"
+CO1304"
+CO1305"
+CO1306"
+CO150A"
+CO150B"
+CO150C"
+CO150D"
+CO150E"
+CO150F"
+CO150G"
+CO150H"
+CO150I"
+CO150J"
+CO150K"
+CO150L"
+CO150M"
+CO150N"
+CO150O"
+CO1701"
+CO1702"
+CO1703"
+CO1704"
+CO1705"
+CO1706"
+CO1800"
+CO190A"
+CO190B"
+CO190C"
+CO190D"
+CO190E"
+CO190F"
+CO190G"
+CO2001"
+CO2002"
+CO2003"
+CO2004"
+CO230A"
+CO230B"
+CO230C"
+CO230D"
+CO230E"
+CO230F"
+CO230G"
+CO2501"
+CO2502"
+CO2503"
+CO2504"
+CO2505"
+CO2506"
+CO2507"
+CO2508"
+CO2509"
+CO2510"
+CO2511"
+CO2512"
+CO2513"
+CO2514"
+CO2515"
+CO2701"
+CO2702"
+CO2703"
+CO2704"
+CO2705"
+CO4101"
+CO4102"
+CO4103"
+CO4104"
+CO4401"
+CO4402"
+CO4701"
+CO4702"
+CO4703"
+CO4704"
+CO4705"
+CO5001"
+CO5002"
+CO5003"
+CO5004"
+CO520A"
+CO520B"
+CO520C"
+CO520D"
+CO520E"
+CO520F"
+CO520G"
+CO520H"
+CO520I"
+CO520J"
+CO520K"
+CO520L"
+CO520M"
+CO540A"
+CO540B"
+CO540C"
+CO540D"
+CO540E"
+CO540F"
+CO6301"
+CO6302"
+CO6303"
+CO6304"
+CO6305"
+CO6601"
+CO6602"
+CO6603"
+CO680A"
+CO680B"
+CO680C"
+CO680D"
+CO680E"
+CO680F"
+CO680G"
+CO7001"
+CO7002"
+CO7003"
+CO7004"
+CO7005"
+CO7301"
+CO7302"
+CO7303"
+CO7304"
+CO7305"
+CO7306"
+CO7601"
+CO7602"
+CO7603"
+CO7604"
+CO7605"
+CO8100"
+CO850A"
+CO850B"
+CO850C"
+CO860D"
+CO860E"
+CO860F"
+CO9100"
+CO9401"
+CO9500"
+CO9700"
+CO9900"
+Creuse"
+Cuenca"
+C√°diz"
+Dorset"
+Dublin"
+Dudley"
+Durham"
+Ealing"
+Gerona"
+Halton"
+Huelva"
+Huesca"
+Kenora"
+Lanark"
+Landes"
+Loiret"
+L√©vis"
+ME04R1"
+ME04R2"
+ME04R3"
+ME04R4"
+ME07R2"
+ME07R3"
+ME07R6"
+ME23R1"
+ME23R2"
+ME23R3"
+ME23R4"
+ME27R3"
+ME31R1"
+ME31R2"
+ME31R3"
+ME31R4"
+ME31R5"
+ME31R6"
+ME31R7"
+ME31R8"
+Madrid"
+Manche"
+Matane"
+Medway"
+Murcia"
+Orense"
+Ottawa"
+Oxford"
+Pictou"
+Prince"
+Queens"
+Sarthe"
+Sefton"
+Simcoe"
+Teruel"
+Toledo"
+Torbay"
+Vienne"
+Wirral"
+Zamora"
+√Åvila"	
+Abitibi"	
+Algarve"	
+Ari√®ge"	
+Avignon"	
+Badajoz"	
+Bedford"	
+Belfast"	
+Bromley"	
+Central"	
+Cordoba"	
+Croydon"	
+C√°vado"	
+Enfield"	
+Falkirk"	
+Gironde"	
+Granada"	
+Gwynedd"	
+Halifax"	
+L'Islet"	
+Lambeth"	
+Lambton"	
+L√©rida"	
+Mayenne"	
+Midland"	
+Mirabel"	
+Muskoka"	
+M√°laga"	
+Navarre"	
+Niagara"	
+Pontiac"	
+Qu√©bec"	
+Renfrew"	
+Segovia"	
+Seville"	
+Sudbury"	
+Suffolk"	
+Sunbury"	
+Swansea"	
+Swindon"	
+Toronto"	
+Vend√©e"	
+Walsall"
+
+Albacete"
+
+Alicante"
+
+Almer√≠a"
+
+Asturias"
+
+Bradford"
+
+Calvados"
+
+Carleton"
+
+Charente"
+
+Cochrane"
+
+Corr√®ze"
+
+Coventry"
+
+C√°ceres"
+
+D'Autray"
+
+Devon CC"
+
+Dordogne"
+
+Drummond"
+
+Dufferin"
+
+Erie, PA"
+
+Gatineau"
+
+Gipuzkoa"
+
+Hamilton"
+
+Hastings"
+
+Joliette"
+
+Keewatin"
+
+La Mitis"
+
+La Rioja"
+
+La Tuque"
+
+Mid Kent"
+
+Mid-East"
+
+Mid-West"
+
+Montcalm"
+
+Morbihan"
+
+M√©kinac"
+
+Palencia"
+
+Papineau"
+
+Plymouth"
+
+Portneuf"
+
+Richmond"
+
+Rio - MA"
+
+Rouville"
+
+Sandwell"
+
+Solihull"
+
+Somerset"
+
+Sur - AT"
+
+Sur - CA"
+
+Sur - CE"
+
+Sur - CS"
+
+Sur - HU"
+
+Sur - LG"
+
+Sur - MA"
+
+Sur - TO"
+
+Sur - VC"
+
+Thurrock"
+
+Tyneside"
+
+Valencia"
+
+Victoria"
+
+Waterloo"
+
+Yarmouth"
+
+Yvelines"
+	Annapolis"
+	Barcelona"
+	Berkshire"
+	Blackpool"
+	Cantabria"
+	Charlotte"
+	Chorotega"
+	Coaticook"
+	Dover, DE"
+	Durham CC"
+	East Kent"
+	Fria - QD"
+	Frontenac"
+	Inverness"
+	Kitikmeot"
+	L'√ârable"
+	Le Granit"
+	Leicester"
+	Liverpool"
+	Loba - BL"
+	Longueuil"
+	Lunenburg"
+	Madawaska"
+	Matawinie"
+	Middlesex"
+	Montmagny"
+	Nipissing"
+	Salamanca"
+	Saragossa"
+	Sheffield"
+	Shelburne"
+	Soto - ST"
+	Tarragona"
+	Wakefield"
+	West Kent"
+
+Albany, GA"
+
+Alpena, MI"
+
+Alto Minho"
+
+Antigonish"
+
+Argenteuil"
+
+Arthabaska"
+
+Austurland"
+
+Bangor, ME"
+
+Birmingham"
+
+B√©cancour"
+
+Castell√≥n"
+
+Charlevoix"
+
+Colchester"
+
+Cumberland"
+
+Darlington"
+
+Finist√®re"
+
+Gloucester"
+
+Haliburton"
+
+Kamouraska"
+
+La Corunna"
+
+Manchester"
+
+Manitoulin"
+
+Mares - ST"
+
+Mid Ulster"
+
+Neira - BY"
+
+Norte - AN"
+
+Norte - AT"
+
+Norte - BY"
+
+Norte - CA"
+
+Norte - CE"
+
+Norte - CL"
+
+Norte - CS"
+
+Norte - HU"
+
+Norte - LG"
+
+Norte - MA"
+
+Norte - NS"
+
+Norte - QD"
+
+Norte - TO"
+
+Norte - VC"
+
+Nottingham"
+
+Pontevedra"
+
+Portsmouth"
+
+Roussillon"
+
+Saint John"
+
+Shawinigan"
+
+Sherbrooke"
+
+South-East"
+
+South-West"
+
+Sunderland"
+
+Tupelo, MS"
+
+Ubate - CU"
+
+Uraba - AN"
+
+Val-d'Oise"
+
+Valladolid"
+
+Valle - QD"
+
+Velez - ST"
+
+Wandsworth"
+
+Warrington"
+
+Wellington"
+
+West Essex"
+
+Westfjords"
+Arauca - AR"
+Ariari - ME"
+Atrato - CH"
+Beira Baixa"
+Bellechasse"
+Bogota - DC"
+Bonaventure"
+Cape Breton"
+Centro - BY"
+Centro - CA"
+Centro - CL"
+Centro - CO"
+Centro - CS"
+Centro - HU"
+Centro - MA"
+Centro - NA"
+Centro - NS"
+Centro - VC"
+Chiapas, R2"
+Chiapas, R3"
+Chiapas, R6"
+Ciudad Real"
+Darien - CH"
+East Surrey"
+Guadalajara"
+Guavio - CU"
+Guysborough"
+Ibague - TO"
+Les Basques"
+Les Moulins"
+Les Sources"
+Lotbini√®re"
+Macizo - CA"
+Manicouagan"
+Maskinong√©"
+Medina - CU"
+Mojana - SU"
+M√©dio Tejo"
+Obando - NA"
+Oxfordshire"
+Parry Sound"
+Rainy River"
+Restigouche"
+Roanoke, VA"
+Soacha - CU"
+Southampton"
+Tabasco, R3"
+Thunder Bay"
+Timiskaming"
+Vaupes - VP"
+West Surrey"
+Westminster"
+Westmorland"
+Yucatan, R1"
+Yucatan, R2"
+Yucatan, R3"
+Yucatan, R4"
+Yucatan, R5"
+Yucatan, R6"
+Yucatan, R7"
+Yucatan, R8"
+Alto T√¢mega"
+Araba/√Ålava"
+Campeche, R1"
+Campeche, R2"
+Campeche, R3"
+Campeche, R4"
+Capital - ME"
+Capital - QD"
+Caqueta - CQ"
+Central - CE"
+Chatham-Kent"
+Cienaga - CO"
+Columbia, MO"
+Deux-S√®vres"
+East Cumbria"
+Eure-et-Loir"
+Francheville"
+Glasgow City"
+Guainia - GN"
+Gualiva - CU"
+Haute-Vienne"
+L'Assomption"
+Lengupa - BY"
+Lincolnshire"
+Loir-et-Cher"
+Marquez - BY"
+Nevados - TO"
+North Huetar"
+Oriente - AN"
+Oriente - BY"
+Oriente - CA"
+Oriente - CL"
+Oriente - CU"
+Oriente - TO"
+Oriente - VC"
+Peterborough"
+Richmond, VA"
+Sabanas - CO"
+Sabanas - SU"
+Sumapaz - CU"
+Telembi - NA"
+Tundama - BY"
+T√©miscouata"
+Vichada - VD"
+Warwickshire"
+West Cumbria"
+West Lothian"
+Wiltshire CC"
+Abitibi-Ouest"
+Almeidas - CU"
+Alto Alentejo"
+Amazonas - AM"
+Cheshire East"
+Comunera - ST"
+Duluth, MN-WI"
+Guanenta - ST"
+Guaviare - GV"
+Gwent Valleys"
+Haute-Garonne"
+Hertfordshire"
+Jonesboro, AR"
+La Matap√©dia"
+Les Etchemins"
+Memphr√©magog"
+Milton Keynes"
+Nordeste - AN"
+Pas-de-Calais"
+Prince Edward"
+Ricaurte - BY"
+Rio Mayo - NA"
+Rio Meta - ME"
+Robert-Cliche"
+Rouyn-Noranda"
+San Juan - CH"
+Shropshire CC"
+Sugamuxi - BY"
+Suroeste - AN"
+Tower Hamlets"
+Wolverhampton"
+Alto Sinu - CO"
+Baixo Alentejo"
+Capital Region"
+Charleston, WV"
+Charlevoix-Est"
+Costanera - CO"
+C√¥tes-d'Armor"
+Deux-Montagnes"
+East Sussex CC"
+Greenville, NC"
+Gutierrez - BY"
+Heart of Essex"
+Indre-et-Loire"
+Juanamb√∫ - NA"
+Kawartha Lakes"
+La Sabana - NA"
+Les Appalaches"
+Lot-et-Garonne"
+Maine-et-Loire"
+Mason City, IA"
+Mid Lancashire"
+Northumberland"
+Occidente - AN"
+Occidente - BY"
+Occidente - CA"
+Occidente - HU"
+Occidente - NA"
+Occidente - NS"
+Occidente - VC"
+Paducah, KY-IL"
+Rio Negro - CU"
+San Jorge - CO"
+San Jorge - SU"
+Seine-Maritime"
+South Ayrshire"
+South Teesside"
+Stoke-on-Trent"
+T√©miscamingue"
+Worcestershire"
+Antoine-Labelle"
+Bajo Cauca - AN"
+Beauce-Sartigan"
+Central Pacific"
+Central Valleys"
+Division No.  1"
+Division No.  2"
+Division No.  3"
+Division No.  4"
+Division No.  5"
+Division No.  6"
+Division No.  7"
+Division No.  8"
+Division No.  9"
+Division No. 10"
+Division No. 11"
+Division No. 22"
+Division No. 23"
+East Derbyshire"
+East Lancashire"
+East Merseyside"
+Gainesville, FL"
+Gloucestershire"
+Guambuyaco - NA"
+Ille-et-Vilaine"
+Les Laurentides"
+Les Maskoutains"
+Los Abades - NA"
+Nicolet-Yamaska"
+Nord-du-Qu√©bec"
+North Hampshire"
+Occidental - AT"
+Piedemonte - ME"
+Sanquianga - NA"
+Sinu Medio - CO"
+South Hampshire"
+Southend-on-Sea"
+Springfield, IL"
+Springfield, MO"
+Suroriente - TO"
+Tallahassee, FL"
+Tarn-et-Garonne"
+Tequendama - CU"
+T√¢mega e Sousa"
+Valderrama - BY"
+Alentejo Central"
+Alentejo Litoral"
+Bristol, City of"
+Brome-Missisquoi"
+Cedar Rapids, IA"
+Harrisonburg, VA"
+Huetar Caribbean"
+Jacksonville, FL"
+La Crosse, WI-MN"
+La Haute-Yamaska"
+La Libertad - BY"
+Le Rocher-Perc√©"
+Lez√≠ria do Tejo"
+Loire-Atlantique"
+Marinette, WI-MI"
+Pierre-De Saurel"
+Quintana Roo, R1"
+Quintana Roo, R2"
+Quintana Roo, R3"
+Quintana Roo, R4"
+Rivi√®re-du-Loup"
+Santa Marta - MA"
+Scottish Borders"
+South West Wales"
+Staffordshire CC"
+Sur Oriente - NS"
+Alto Oriente - CL"
+Bota Caucana - CA"
+Brighton and Hove"
+Cambridgeshire CC"
+Central Hampshire"
+Charente-Maritime"
+Evansville, IN-KY"
+Haldimand-Norfolk"
+Hautes-Pyr√©n√©es"
+Le Domaine-du-Roy"
+Le Haut-Richelieu"
+Maria-Chapdelaine"
+Memphis, TN-MS-AR"
+Morrosquillo - SU"
+North Lanarkshire"
+Pacifico Sur - CH"
+Pacifico Sur - NA"
+Peoria-Canton, IL"
+Regi√£o de Aveiro"
+Regi√£o de Leiria"
+Rimouski-Neigette"
+South Lanarkshire"
+State College, PA"
+Traverse City, MI"
+Alto Putumayo - PU"
+Bajo Putumayo - PU"
+Buckinghamshire CC"
+Cordilleranos - QD"
+Edinburgh, City of"
+Garcia Rovira - ST"
+Hackney and Newham"
+La Cordillera - NA"
+La C√¥te-de-Gasp√©"
+La Haute-Gasp√©sie"
+La Jacques-Cartier"
+La Nouvelle-Beauce"
+La Vall√©e-de-l'Or"
+Lac-Saint-Jean-Est"
+Lancaster and Wyre"
+Les Pays-d'en-Haut"
+Metropolitana - NS"
+Metropolitana - ST"
+Monroe-Bastrop, LA"
+Noroccidental - CE"
+North Yorkshire CC"
+Regi√£o de Coimbra"
+Sabana Centro - CU"
+Southern Peninsula"
+Sur Occidente - NS"
+Telford and Wrekin"
+Toledo-Fremont, OH"
+Viseu D√£o Laf√µes"
+Wausau-Merrill, WI"
+Alto Magdalena - CU"
+Alto Occidente - CL"
+Ards and North Down"
+Bajo Magdalena - CU"
+Bajo Occidente - CL"
+Centro Oriente - AT"
+Dumfries & Galloway"
+Essex Haven Gateway"
+Fermanagh and Omagh"
+Kent Thames Gateway"
+La Haute-C√¥te-Nord"
+La Rivi√®re-du-Nord"
+Leeds and Grenville"
+Madison-Baraboo, WI"
+Medio Putumayo - PU"
+Mid and East Antrim"
+Pacifico Norte - CH"
+Syracuse-Auburn, NY"
+Vaudreuil-Soulanges"
+Western Region (IS)"
+Bexley and Greenwich"
+Central Bedfordshire"
+Champaign-Urbana, IL"
+Essex Thames Gateway"
+La C√¥te-de-Beaupr√©"
+Lennox and Addington"
+Magdalena Medio - AN"
+Manejo Especial - BY"
+Montes De Maria - BL"
+Montes De Maria - SU"
+Prescott and Russell"
+Southern Region (IS)"
+Angus and Dundee City"
+Asheville-Brevard, NC"
+Beauharnois-Salaberry"
+Blackburn with Darwen"
+Columbia-Newberry, SC"
+Harrow and Hillingdon"
+Le Haut-Saint-Laurent"
+Magdalena Centro - CU"
+Marguerite-D'Youville"
+North Nottinghamshire"
+Sabana Occidente - CU"
+South Nottinghamshire"
+Valle Del Aburra - AN"
+West Northamptonshire"
+Conwy and Denbighshire"
+Dique Bolivarense - BL"
+Flintshire and Wrexham"
+Haringey and Islington"
+Huntsville-Decatur, AL"
+Jackson-Yazoo City, MS"
+Lafayette-Acadiana, LA"
+Le Val-Saint-Fran√ßois"
+Lewisham and Southwark"
+Newry, Mourne and Down"
+North Northamptonshire"
+North and West Norfolk"
+Pyr√©n√©es-Atlantiques"
+Antrim and Newtownabbey"
+Calderdale and Kirklees"
+Derry City and Strabane"
+La Vall√©e-du-Richelieu"
+Le Haut-Saint-Fran√ßois"
+Lisburn and Castlereagh"
+Mojana Bolivarense - BL"
+Piedemonte Costero - NA"
+Raleigh-Durham-Cary, NC"
+Th√©r√®se-De Blainville"
+Causeway Coast and Glens"
+Depresion Momposina - BL"
+Detroit-Warren-Flint, MI"
+Distrito Fronterizo - BY"
+East Riding of Yorkshire"
+Herefordshire, County of"
+Le Saguenay-et-son-Fjord"
+Northeastern Region (IS)"
+Northwestern Region (IS)"
+Norwich and East Norfolk"
+Orlando-The Villages, FL"
+Waterloo-Cedar Falls, IA"
+West Sussex (North East)"
+West Sussex (South West)"
+Beiras e Serra da Estrela"
+Camden and City of London"
+Cheshire West and Chester"
+Clackmannanshire and Fife"
+La Vall√©e-de-la-Gatineau"
+Monmouthshire and Newport"
+Pittsburgh-New Castle, PA"
+South and West Derbyshire"
+Terras de Tr√°s-os-Montes"
+Cleveland-Akron-Elyria, OH"
+Les Jardins-de-Napierville"
+Metropolitan area of Porto"
+Mobile-Daphne-Fairhope, AL"
+Panama City-Lynn Haven, FL"
+Scranton--Wilkes-Barre, PA"
+Appleton-Oshkosh-Neenah, WI"
+Baton Rouge-Pierre Part, LA"
+Breckland and South Norfolk"
+Chorley and West Lancashire"
+Dothan-Enterprise-Ozark, AL"
+East Lothian and Midlothian"
+Kingston upon Hull, City of"
+Les Collines-de-l'Outaouais"
+Metropolitan area of Lisbon"
+Sept-Rivi√®res--Caniapiscau"
+South Bend-Mishawaka, IN-MI"
+Cornwall and Isles of Scilly"
+Perth & Kinross and Stirling"
+Redbridge and Waltham Forest"
+Birmingham-Hoover-Cullman, AL"
+Cape Girardeau-Jackson, MO-IL"
+Cardiff and Vale of Glamorgan"
+Greater Manchester North East"
+Greater Manchester North West"
+Greater Manchester South East"
+Greater Manchester South West"
+Leicestershire CC and Rutland"
+Milwaukee-Racine-Waukesha, WI"
+Montgomery-Alexander City, AL"
+Sarasota-Bradenton-Venice, FL"
+Uno - Vertiente Oriental - RI" 
+Augusta-Richmond County, GA-SC" 
+Bridgend and Neath Port Talbot" 
+Columbus-Auburn-Opelika, GA-AL" 
+Gulfport-Biloxi-Pascagoula, MS" 
+Pensacola-Ferry Pass-Brent, FL" 
+Stormont, Dundas and Glengarry"!
+Aberdeen City and Aberdeenshire"!
+Barking & Dagenham and Havering"!
+Buffalo-Niagara-Cattaraugus, NY"!
+Burlington-South Burlington, VT"!
+Charleston-North Charleston, SC"!
+Clarksburg, WV + Morgantown, WV"!
+Columbus-Marion-Chillicothe, OH"!
+Dos - Vertiente Occidental - RI"!
+Greater Sudbury / Grand Sudbury"!
+Harrisburg-Carlisle-Lebanon, PA"!
+Hartlepool and Stockton-on-Tees""
+ Albany-Schenectady-Amsterdam, NY""
+ Fort Wayne-Huntington-Auburn, IN""
+ Magdalena Medio Bolivarense - BL"#
+!Barnsley, Doncaster and Rotherham"#
+!Dayton-Springfield-Greenville, OH"#
+!Grand Rapids-Muskegon-Holland, MI"#
+!Hounslow and Richmond upon Thames"#
+!New Orleans-Metairie-Bogalusa, LA"#
+!North and North East Lincolnshire"$
+"Boston-Worcester-Manchester, MA-NH"$
+"Indianapolis-Anderson-Columbus, IN"$
+"Myrtle Beach-Conway-Georgetown, SC"$
+"Rochester-Batavia-Seneca Falls, NY"$
+"Tres - Vertiente Del Pacifico - RI"%
+#Bournemouth, Christchurch and Poole"%
+#Charlotte-Gastonia-Salisbury, NC-SC"%
+#Davenport-Moline-Rock Island, IA-IL"%
+#Greenville-Spartanburg-Anderson, SC"%
+#Macon-Warner Robins-Fort Valley, GA"%
+#Minganie--Le Golfe-du-Saint-Laurent"%
+#Tampa-St. Petersburg-Clearwater, FL"&
+$Armagh City, Banbridge and Craigavon"&
+$Portland-Lewiston-South Portland, ME"&
+$Savannah-Hinesville-Fort Stewart, GA"'
+%Knoxville-Sevierville-La Follette, TN"'
+%Miami-Fort Lauderdale-Miami Beach, FL"'
+%Minneapolis-St. Paul-St. Cloud, MN-WI"(
+&Hartford-West Hartford-Willimantic, CT")
+'Merton, Kingston upon Thames and Sutton")
+'New York-Newark-Bridgeport, NY-NJ-CT-PA")
+'St. Louis-St. Charles-Farmington, MO-IL"*
+(Atlanta-Sandy Springs-Gainesville, GA-AL"+
+)East Ayrshire and North Ayrshire mainland"+
+)Greensboro--Winston-Salem--High Point, NC"+
+)Philadelphia-Camden-Vineland, PA-NJ-DE-MD",
+*Caithness & Sutherland and Ross & Cromarty",
+*Chicago-Naperville-Michigan City, IL-IN-WI",
+*Cincinnati-Middletown-Wilmington, OH-KY-IN",
+*Lexington-Fayette--Frankfort--Richmond, KY",
+*Louisville-Elizabethtown-Scottsburg, KY-IN",
+*Virginia Beach-Norfolk-Newport News, VA-NC".
+,Little Rock-North Little Rock-Pine Bluff, AR"/
+-Kensington & Chelsea and Hammersmith & Fulham"0
+.Inverclyde, East Renfrewshire and Renfrewshire"0
+.Nashville-Davidson--Murfreesboro--Columbia, TN"4
+2Inverness & Nairn and Moray, Badenoch & Strathspey"4
+2Johnson City-Kingsport-Bristol (Tri-Cities), TN-VA"5
+3Washington-Baltimore-Northern Virginia, DC-MD-VA-WV">
+<Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute"C
+AEast Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond"H
+FBath and North East Somerset, North Somerset and South GloucestershireA îÆ"3	\o
+˚ 	‡∂
+	 +==U		Â 	Ú
+	 
+ 	
+  íˆ	"	ü‰
+ ñ≠\e ëı	"	ï‰
+	 	 
+
+ø êø"∞	\–[fü∫	 Ç˙H  ë	
+	 
+ 
+ 
+
+  &
+
+ 
+
+	
+ 
+ 	 è€"		W‡ mG  Ö•	"
+	üÙ  M7 •à")	ü ä  +* 	  +8  e  M  K> ôö
+"0	Ï™ +    	7  , 
+)  ,0  
+2 "  W °—	"	ë˛ 3 	 4
+  …±"	ë‡ a 	 b
+ Q üÓ
+"C	LéÚ'  !#   X! 1  	#   Ç@   D 		  %j +  a    0 Ûñ
+""	QÄ M 	 äR$  
+& 		 	  5x ±Ω
+"j	å¨ ö	      	  
+ '  
+	 I 	# 	 n‚  4 	* 
+    
+  $   
+
+  'Ø øå"†	DË!Í  	  =     	  
+! 	$ 4 @ *  
+  
+
+   
+     $  %	   (       	  K  A'  
+	  !' ¸˚"	Å∆!  ' 	 º"   C æã
+"5	[»#Ç	  	  	  	 )	   	 ≤*:  %	  r ó´	"d	*û$˙    k  
+ 
+ 
+   2R 	 
+ 			    ïî"ª	,∞&Ç   
+   
+	 
+      	   
+	 
+  
+			
+ 
+
+
+   	 	
+	 F¬ 
+  	 
+ ` .   .  	& I"   	  	 	 )  %  
+	  
+	      +ñ úó"á	å$
+ 	 ÇÍ6  
+ 	  
+	  	 	         	 c % 		 M ß÷
+"?	üà(‚
+	  
+  			5 X öï"J	sî*
+	
+ 	
+ 	j	 	  	 
+ 	 	,∏ ` ´ı"R	,º)Í   
+   #; 3  6
+  
+    	 	
+ 	
+ 	
+p Ìƒ"b	3Ê(b+  	
+ 	 
+ 	 Í
+
+       	 	 5( »
+ƒ"	ëä4*   		 V ÷
+Ì"H	¯0r	   		 	ä   	 
+	 d ƒ
+Ò"V	ê1r 
+  	V¬       	      d ∆
+Û"V	3ﬁ1¬
+                     7 œ
+‡")	Yê3J 			 :
+[  
+∆"M	É∆32			 b⁄
+      
+    l «
+Ù"^	ê3í#       
+ 
+ 			3dB
+ 
+ K …
+≈"=	ëä4" 	H*™	  	    ï‡"
+	üo¸  /Ç ìÕ"t	 a
+ 	 
+	 
+ 	>V .	”Õ 0Ê 	hñ
+	 
+	¸
+ 	\N
+ 	Úâ
+	à∂
+ 	é>
+ 	
+ 	‹–
+	ê€w é·"i	®í‚ #m  ﬂ
+	  	'	 	  Ä	Ç&
+ÛN çÃ"@	û¬: g[  #K  #M Ù	íÏr 
+    ! /7  !  ]  E~ 	6∫ 	 Ä åü"r	Äú¢
+ 	 		
+		 	%	 ‹n  $N  $L  $\  hH   “  øW  ‡
+"I	b§
+ !	Ô$Ú N:   N  p  ,   F  c     	    +  %	 K   < ††
+".	bÇ¢ "    L
+ &  ,
+    
+    Q Ë√"C	ÃêÚ     	   !   
+    d!  "B  
+,    
+  +  	  E §Ÿ"7	‡‚¬  
+  ,	    +  	    b  ,*  
+  $ < Ä˛".	‚¢ +  )!   C  6
+  
+ .  	(   	t ¯í"f	»≤˙#  	  ì&  
+  "  *  ,  
+      -
+ >6 &  
+  	  '
+   	   * Áˆ"	ûûZ * X $  +,  +4 $ ≈√
+"	ƒ¢B|  + W)  2 äÛ"$	¿¢
+{ 	ƒZ  ä +  )  A   +K ºÕ"=	¨¸S   	'<≤    
+	  (D  	      )*  	  % àä"	ˆ˛
+ : ã‚",	∫åí 3”  F  jJ  , 
+   /& ”ü	"	ä∞J 9O P(    á —„	"y	 ‚  
+   o +      2 
+
+
+ 
+    	  £ âè"î	ˆÊ™ I  iE  -≈  F  ^Ä  "8 0  "  	    
+	
+ 	Vb A    E	1$Í 
+ "	  "!  
+    	       
+    K äÎ"=	ƒä⁄   	         
+   ( !
+  ! 	k ÜÏ"]	ƒ˛⁄  	+ F    D
+ *@ ,2" -				8 á⁄"*	∆j?+	 	>f(D< ÉÜ".	ˆ÷*7'	$j
+
+
+$ ÑÜ"	»ñBS;,>; Ç®"-	‡ûÇ3  ,+  ,?  X  6 "  *  , .|	)
+ : ˇÑ",	∏¢#
+	\r
+
+. ˚˘" 	Ë∫2 )		H1
+ ¸V"
+	Æ¸. ˝Å" 	ÏÍ
+		=hR(  /< ˙U"/	 ûä		  
+  	
+ 	V
+A ˛Í"3	®Ï≤	2 
+	   	 - Å" 	®¨j F  !< ÇÂ".	÷¶:		 	1$Z",	   #( ß"	ííR+#
+
+ Ä"	Ñ" $	E 9 ¯≥"+	 ∏í
+		,		
+0 ˜œ""	¸÷r		 
+  0 ÎÃ	""	à¶r	R?? ÒØ"1	Çú™	 	
+' Ì"	⁄ûR/ *, Û´"	†‰b	( 	* Úº"	î∞2 		) Ô"	∞™"
+	
+	
+
+ Ùâ"	∞Ï*
+ 
+ Óî"	ﬁ¶*'2 ˘ﬂ"$	‰Ëz	 # 
+		% ˆ"	ê¯J	
+
+. ı≥
+" 	§ÇJ		 	v	m ¿¬
+"_	∆ƒ‚  ) 	  2$ *  \ ' 	 !
+	  	 
+ ? Ü®"1	Ó≤-K  !	E$Ç <0  & 	 !
+ ç ⁄¨"	öà⁄ ß
+   2	   
+ 
+
+
+& 	
+ 	$  h ≈Ö ‹”"w	ò§∫ 
+	A 		 	  ø  ‚. 
+  
+
+ H  A “∑	"3	™–≤  	   '  H    ,  (  ' /á ’–
+"y	¶
+î¬ ùã  
+  - 	    (  &H 
+  . & &  )   	    > ‘Ì"0	™–¢  
+ ,    	è  N
+   ¢ œ∏"ì	é
+é≤     
+    5  	     
+  
+ *%  (  0 
+    $(e Öå"W	“Ó¬
+
+.&,'! 	 	q –ä"c	û	ÚÚ%  -*
+   
+	  
+  +   		 / 2 ‚ﬁ"$	∂
+Ùz
+		0:| ◊µ
+"n	ﬁöö 		 		   	
+ 	Ç~T 
+
+ 		-î ºÈ"Ö	¥“˙11!  "
+ 	
+ "
+
+
+
+				I Ãπ";	
+í“         
+ 
+ 
+ 
+%G Œ "9	¥
+æ    %  ,
+
+ 	
+ 
+ 5 Õ©"'	∂
+∆Ç     
+		O  ˛	"A	™˙Í'         
+7 ·ˇ
+")	é¬ä	  < »˘".	§¢Z		&	 :   . ‡‚" 	àÿJ		 !$	^3ñ ÀÂ	"á	ÑŒÇ	 		 ;   
+ 
+	 6  	  
+        ( Y ±‘"K	Äúz  
+ 	ä 	  
+  7 ∆Ö")	∫ºä  
+ = …”
+"/	∞ä¢			  . «Ï
+" 	¬¢j 
+ 
+ √Û
+"	í» " ƒ≈	"	æ¿:		 2 Ωµ"$	‚êz	
+ " ∫Ñ	"	Ëñ" 
+
+	
+& æœ"	‡ÆJ	 
+* ≈•"	»¥Z	   7 ª≠")	Ê˙ä   ? ≤£"1	àˆ™ 	
+ ( πâ"	˙ú
+ 	*:& ¬É"	ÃÓ
+	2
+& ¡á"	∆ˆ*		,. ¿æ" 	Êäj ? ∑ü"1	ÑŒÇ  			
+  ∏Ê"	ƒ	
+$ øü"	Ê‡			". Íí	" 	ﬁ‘j=+@0 È”	""	‰ÜZ	 	H
+ 4 Ïπ"&	ñ˛j-  8	>
+ Ë≤	"	ÍÑ
+ @ Á¨"2	Ó¯:%+0Ñ
+	82	 5		é
+ 	
+ . Ê˙
+" 	¬	j5	 #D
+6 Âﬁ"(	¥	˙b  
+6	$30 „Ì
+""	†
+ÄZ	
+		
+	N?
+#& ‰¿"	ä
+êJ/9%$6	
+
+
+
+= Â"/	‚Ë
+ 	?zä "L .*  (  ? 9  7   IO ∏˙"A	ö⁄ÍJ   8   :  8:
+  
+')# ! !
+  D ∂∂
+"6	å‡2 	(*	J 
+ q ¡Ú
+"c	∏	ﬁÚ  	 " "l 
+@%
+		I4
+ <!	 ã ÊÓ"}	Ë§⁄; 		3J
+
+
+	
+
+ *           '  E ª¬"7	»
+ñ¬	G *	4
+		 ê ÿ∑
+"Å	Œ†Í	 
+   	
+ 	   $ 	 
+   
+ 
+
+ 
+
+
++%			 		 
+S ÷±"E	àÄÚ 	I  ®\22*,	 
+ Q Å}Q †ª"C	ê¢“	 		 
+	4Y Ÿ—
+"K	òäí
+				2	 @ 
+# 	( î˘
+"	‰ÊR?[; Jj 
+7 è¬	")	∂Óä  ( 
+ 2 êÄ"$	ä¬z	 		 'O@\, £ˇ"	ﬁºb
+: ≥°
+",	˙åR		 
+ 	 
+ 	
+ ? ¢°"1	≤∏™ 	
+
+u °∑"g	∂ÏÇ	  ++
+
+
+ 
+
+ 
+ 		L ∞Å
+">	“*	 			b	
+ 	C
+ 	
+ 	 
+ ( §˛"	∞ÊR
+
+ 
+U •˙"G	àÜÇ 
+   
+
+ 
+
+ 	A ¥ˇ	"3	¶™≤
+
+ 
+   	 2 µæ"$	ñÊ: 				2 . ¨ï
+" 	∫äj    
+		* ≠õ
+"	æ“Z    4 Æ"'	 æÇ
+      		 S ®ñ"E	Äº˙	  
+ 	    	Q Ø¶"C	 ÜÚ		
+	 0 ©¢""	ˆ–r     
+ & ™Ÿ"	úÏJ      < ´Æ	".	‹⁄J  
+      	( J     	5 ü—"'	‚¿Ç I ïŒ
+";	∞é“ 
+ 9Q 
+ 
+ 
+	
+
+ 	$ ñã"	¥îB		
+	* ó√"	¥¥*
+	'"	? û·"1	ú‰™ 
+	 	 5 ô∂	"'	‡ËÇ
+		G òœ
+"9	ﬁ‘ 	 
+8 íÎ"*	†®*	Z 
+ 7 ö≠	")	òÃä
+	 
+S ì∂"E	ºú˙
+ 
+
+
+	
+			 9 ß†"+	∂Ïí   	  
+  7 ¶–")	Äºä
+		I ùŒ	";	ƒ˙“  = ú‚"/	ˆ§¢   
+  F €Î
+"8	ö˛¬   G				 	- ‰
+& ëˇ"	æ¸	""< å¶
+".	ÄéJ 	#0J 
+
+ 
+	6 ãŒ"(	ñˆ
+	r
+ * éá"	‘ﬁ2	 	'4 * ä¿
+"	ÿ˛" 	1$*64    C âØ"5	ﬁ§
+	+¢    	 I Ü";	ê‰“		 ?#
+	9 çô	"+	Úﬁí	 +	? Ä‹"1	Íˆ™
+		/    z8T!
+$ ˇË"	Ê¸B 3=  
+( ˛Œ"	™‘";8
+ 	 >"N
+;K õÁ	"=	ÇÇ⁄   G Ï¸"9	öæ   N  D.  
+ ˝ù"	Êí"<mSç ÒÊ"	‚¯j			
+		 
+ 	 
+	 	 
+ 	 
+ 	 
+ 	 
+ 		 ⁄ 
+
+  
+	
+÷ Ô˜"«	‚¯Ú	
+	  
+ (   : 
+
+    J  
+	d◊:ﬂ	
+ 	 
+ 	 
+	 
+ 	 
+	 
+ 	 
+	 
+ 	 r# 	
+
+
+
+Y ¥Ñ"K	∂÷  	_¶*‚ 	≤Ø™  -C 	  5q ëâ"c	Ù÷Ú ; 	  A            
+
+   
+Ñ ›Ù	"ı	òÊ		 ˙
+  
+       
+ 
+  
+ 
+
+
+
+  
+ 
+ 
+
+ 
+ 	
+  
+	 	   $     	  
+
+ 	   
+ 
+  	 "Ü		9'		
+ 	 
+	
+ 	.(
+ 	 
+ 	 
+		*Ç,
+ 
+ %& "$  &	*":2
+4DÔ ﬂÇ
+"‡	∫ò˙ ‹∏
+
+    
+	+    
+ 
+ 
+    	 		
+	 
+   ¡Ï 	
+*
+		
+ ˆ   	
+     	 	 		  	 
+		
+  	 	    		  
+   #   
+  	
+  
+ 		 	 	  
+		 			  		     	 	  	›	 
+ 	–
+	€œ
+ 	ëé
+ 	äë
+ 	ç=
+ 	áµ
+Í ‹Û	"€	∞‘
+ 	 ≤Ö
+!	 
+	
+ 
+
+     	
+
+	 	 	       
+ 	#		   
+
+
+
+		  	
+   
+  
+ 	  
+ 
+         	
+
+       
+ 
+
+
+
+    	    
+    	
+ 
+  	       
+
+!  
+‚  V	ç:C-1	)!Ç% #  !%& 	 	+	YU 		
+
+	 
+ 	
+	N*
+
+	 
+ ∞ ﬁÅ"°	≤û‚ U·  	 	 2		  	   
+ 
+ 	 		 	
+	     ¸ Æ ›Ã"ü	∂∏¬
+       	 		
+ 
+     	        	    	   	    Î å¿    
+ 
+   B	
+  	öa"   ˜	EªÚ
+ 	    
+
+ 
+  
+ 
+ 
+ ı 	U B ' / ÑÕ
+"!	∂¢*+  
+  	õ2
+64(© ◊Ó	"ö	“÷ö  
+     	6¢
+
+
+  	 	   e €Ú	"W	 »¬
+ 
+   	
+     
+
+a á¨	"S	é∞≤   	
+  
+
+	$^%E à⁄"7	˛¢2%% 		]0Ç
+ 	  Çù
+"	®†"q20& Ö∏"	‡J1/E 
+
+$ ÅÖ"	úéB	"	&*F J ¸"=	ˆ⁄¢ 		
+
+
+5Cx   	"8*, 1 "9C ˚”	"5	Ë÷∫ E%)I2r		
+  'F7& Ù◊"	ﬁ‰  S	V0
+ 	  
+ ( ıë"	÷ R*G  %@ 2" ( ˆ‚"	ƒ¸R'	'D fg ˙"	Ù˛"E8((
+L ˜ó"	ÿº"?eh 
+z1  Û†"	‹»y2 	 
+ " ¯À"	åû: (  ÉÃ
+"	“÷2 	   ,r ‡·"	ÏÓ
+-" ﬂ‚"	¶‘
+ 	E
+.	L 
+9* ÎÇ"	∫ä			8:"	, ˘Ê"	ä‰BK6   	 
+
+ ﬁó"	¶‘
+:	=
+ 2 ÍÅ"$	ˆ™:
+!	82  :!  Ï‡"	Ï⁄
++	S"8 „$"	˙ä".	%-" Â“"	¯∂
+3	A4"&. ÊÁ"	∏∫*!/.
+ "" ‚–"	¿Ó-	"49  ·"	¿Ó>	J!
+%- Áó"	‚Ç483" ‰‚"	ä¯:!		 &.( È˛"	ÊéR3%7 	#* ËÉ"	™¸Z$	" ÌÃ"	®∏:
+ E2&  Ôﬂ"	∞º
+	%1E" Ó¯"	‡Æ:, 	 º"	ñÆ
+)	+
+ Òπ"	Ï†
+*		M" ÚŒ"	¯ÇF2	,z ÷Ì	"l	ò∂j	 	GÆö
+	
+	
+  	  
+  
+ j ⁄Ò	"\	–û™ &
+	
+		ö 	
+$ 
+
+ É Ÿ	"u	¯–∫ 	
+ 
+
+	 
+ 	  	
+
+	  
+  
+ 
+ 
+
+Ô ÿÔ	"‡	ÿ⁄   
+	
+		 #	
+  	ä 
+	
+#	
+     			
+		
+
+  
+ 
+  
+ ¡ ’Ï	"≤	à¬    	   		  	  		   
+ 	 	
+		Ä
+Z	
+
+ 	  E ‘Î	"7	–Ñ™ 			 
+  	 	
+	\'
+
+	 ”Í	"	ﬁå 	
+Å Ωä
+"s	rÓ ¢# 	   	) 
+3   	 FÇ  (  "	 
+       >
+    
+  
+  #  	  %[ Ù˜
+"M	‚∫ ö5=	  .  (	 	   *  
+  $	  	  8
+  	(  B2  # G # #  	$ Ià Ú“"z	b∞#“   #    
+ &#     
+  &R    		
+ 	
+ Y Æ€	"K	∞ò#í     	
+  F    ö á≤
+"ã	Æ≤"í ;%  
+ 
+  
+ -  $  L 
+      	    		  	 8 àÔ"*	ÿ™ä-)  &
+  )  *    0   <  $  •¶ ùï"ó	“∂"¬ 	  
+*!  
+ 
+     $ 		  
+		Ö ì¯"w	ÿ– ¬#  ;   )  
+I  
+	  % f#  
+ $ $ H  	 &  <"  '		 ! ,  ]÷ ¢∏
+"«	≤å$ÇE  
+
+		  
+			Q 2  
+       *      
+ 	   	     /      
+
+ 	
+
+	b ∆¶"T	¥à%≤	        0  L    
+  	
+  	  &* ’	    	ö Ó—"ã	Ñ¶&ä 	 ôí 
+ 
+         
+          N  +	      á ®⁄"y	í¨'  'Q        	      &      $(  
+     	&  % 	
+   	
+ 	
+æ ™ö"Ø	û⁄#¢	 # 
+ 
+	  
+"
+		 
+    h   ( 
+  		 9	Z íì"L	¯¥%í'   	  {
+>ö      
+1Y ˛ﬂ"K	˙æ'í  %/	 
+ 	 
+ &  
+
+ (! 3 ÅÚ"%	Æî z)'  ) ™08 /  !5 ƒﬁ
+"'	‘§Ç{T*  ( *"  #  3	  å ı¡	"˝	ö§!⁄	    	 
+ 	 			   
+
+	
+ 
+ 	 
+
+
+
+
+
+ 
+ # 
+	#  			   	   â ˘ì"{	˙å"“	  -	  Q   +  "  
+ 
+  
+
+  
+	 	
+ 	® ˇÈ"ô	Ù¢   !  " 0    . 
+	   
+
+ 
+
+ 	  
+    
+     !	 	  	) ' + òÜ"q	‘¯#™   
+	M
+ 
+	
+       
+ 	 	 
+K  û ñú"è	¿¢#¢ 	 	!# 
+ L 		 
+
+  
+ „ õî"‘	ﬁ∫"≤   	   	   	
+	
+ 
+ 	
+  
+
+  
+
+à	   
+  "$		  	
+ Z ˚Ω"L	éË %/  ;	≈<Í 
+  4 $, ( * 
+
+  *   ;" ≥∫"q	÷¯™  ! <    $       ^    )#  E ˙Ë"7	º‘!¬=U 
+  
+ 
+
+† ∑›"ë	⁄ˆ"™		 			(
+   ö ãè"ã	‡Ã#í 		
+
+   
+	   
+  
+
+
+	 # -
+  ! 
+9s êó
+"e	⁄ˆ"˙ 	
+
+	
+   $ 		
+ 
+‚ Íç"”	¶Ä%≤      
+  2       
+ ,  (((    $
+ 
+ %  				
+% 
+ !ò ÈÇ"â	Ç∂$ä   		
+	 	
+		
+ 	   
+& 	 	 	
+
+ { çˇ"m	å‚%ö 	7	
+	
+ 			
+ 
+ w Î›"i	¨å'ä 	 
+
+		
+ 
+
+ 	  	í ˜˝"É	à§%Ú			    		 
+
+ 8 
+2 
+	
+
+ £ µ§"î	Ú–#≤	:  "	  & $ 
+
+
+ #"" 
+
+(  -  				â  
+ 	  E ˆÁ"7	ŒÇ'¬	   # 
+ 
+É ˝Ö"u	Ù˙%∫	 
+ + 
+			
+
+
+  $
+  	1 é‡"#	<(J   	  	f"A%  
+- 6 ∞·"(	Ï≤)Ç 	 ç  
+} ¶¿"o	ƒ¿'í  
+
+    
+! å	N˙ T % 	  #       P É«"B	–Ç(Í	  	 %       
+ $ö #	  l ¬ç
+"^	‹¥)¢	     	
+   '  1 	    $
+
+ 	 
+	§*  '; Ø¡"-	¥)ö	 
+ 
+]   ê ûÄ"Å	Ç–'Í  
+
+  
+       			#   
+í Âı"É	Ç–'Ú8'  
+    
+ 2    (      
+
+	 
+  	 ! 	      q îô
+"c	¢™(Ú 	       	  
+
+  "
+ 
+
+ .&  F   
+ 	   
+U â˙	"G	‘Ü*ä E%  - 
+   (
+
+	<Fj
+        x ≠∞"j	†Ú)¬	  
+        	
+ ∫"
+    V,    
+  	 	  " . √Ç" 	‘ƒ+R 5   	   	l
+. i ∫Ö"[	‚∆'“		!
+ 		
+ 
+ ; £á"-	ÊÆ+ö!   
+
+  
+	    6  $  .) - π€"	ÄÇ," +  - 	nº2*  -#    5u èÏ"g	ﬁ	ÿÇ  1  !  	 
+ 
+  "	 
+ 
+ 
+ x 
+ K=$		 Y ≤ê"K	î∞!⁄ +	  %
+#L> "	 	* 
+∂ »ù"ß	‰	Í"
+ 	
+	
+ 	
+ 	
+ 	Bü		 	Ä* 	
+_	™o   	
+&c >  	
+ 
+ 
+ 
+– ∂ì	"¡	Ã	‹"Ú			 						
+	 
+ 
+   	  | 		2
+ 	   
+	)
+ 	 
+	 
+ 	 
+ 	
+ ï ¨ã"Ü	ÜÄ‚) 	7$
+	 &    ,  	¢—Ç	   	 	     $ Ñ⁄"	ê
+»!"V
+ 
+	$ m ©˘"_	Ú%‚  				!!$    
+
+U å«	"G	º	 $∫		 	
+ 
+	Xi:
+ 	j «ñ"\	⁄	 $B
+	  	ÒÇ   	
+1 
+
+ 
+    
+
+v ’
+Ï"h	‘0ä 
+    	         l ‘
+Î"^	vÙ0‚   	        	  j “
+È"\	2º0⁄  
+
+	   	       h ”
+Í"Z	v÷0“     
+  
+ 
+      
+	 ‰ ≈
+Ú"’	@Ë1™  	                           		7@í
+
+ 	 	      $	jb        [ï ◊
+Ó"Ü	:Ç1Ç         
+          
+     	u Õ
+§
+"g	Ê¬1Ç   	  	 #
+         	   
+	:
+{ –
+Á"m	à®0ö       
+        
+  	   u —
+Ë"g	‹ﬁ0Ç 	
+               S À
+¢
+"E	⁄Ñ1Ç   
+    
+    	'j   
+  c Ã
+£
+"U	à∏0∫   	     	             
+    A Œ
+•
+"3	ﬁò2≤9	
+	    P       P Ë	"C	Æ≤9∫ 		 	
+	  		* 	 
+O "ä	"B	™⁄8:  	Ö¢
+
+	
+= ÿ"0	⁄–8B
+		 |*  
+	"
+:  —"-	Ñ¬9ö	 < !ò
+"/	∏¶8¢	   
+^ ı"Q	–ú9™ 	 	  
+ 		 
+ : Œ√	",	‰	Ó9j		
+ 	A2"
+] ‚»"O	»	Ä;Z  	CF∫
+ 
+  ~ ù®"p	»	Ä;ö	
+ 
+ '
+	!Ç 	    		18j   E Àæ	"7	ê
+ä:¬
+
+  	
+ [ „Ò
+"M	ä<ö		  	   		4 •ê"&	®
+Í8Z 		B
+ ( °Ñ
+"	–
+Æ82   	0 üÊ
+""	Ê
+¿8r     
+$ †è"	Ï
+†8		" 
+& ¢¬"	ﬁ
+÷8J	
+
+> ôπ
+"0	®
+∞9r
+ 	 	>* 
+ = œî	"/	∏
+9¢	 	   
+ G —á
+"9	ò
+ˆ9   	  ; Õ˙"-		ƒ9ö
+ 
+ 	5 ò˛
+"'	¥
+ê9Ç 	 	 Q ©˝
+"C	Í
+ö9Ú   
+A öï	"3	‰
+¿9≤	  	 E õﬁ	"7	¬
+∆9¬	
+
+ 
+	  ; ó÷"-	Í
+å:ö  
+
+8 ÔΩ"*	Ë
+Ï8R  			!2
+& Ïß
+"	úä8J
+
+F Óó"8	™Ë8z
+ 	  			B
+ , Íñ"	‡ú8*. 	a* 
+7 Î«")	∫ä8ä    S »"E	º–9˙  
+	  	
+
+; §ß"-	≤ 9ö 	 
+
+
+ M Ì¿"?	æÜ9‚	    	  
+
+
+ S »◊
+"E	≤¶9˙   
+	  		 
+
+S «¯"E	ƒ‡9:	
+ 	)≤	   	    A ¶Â"3	ƒ‡9≤  
+		M …í"?	îƒ8‚
+	 
+  
+
+E ÃΩ"7	Ú	Œ9¬
+
+	   a –›	"S	ˆ	‡:≤  
+
+	 		 	 	 w ®¢"i	íî:ä
+ 			   
+	  a ñÊ	"S	∫
+Ï:≤
+ 	 	
+		    W ö‘	"I	ñ
+Ã;ä 		  		
+	  	
+ 
+ W ôé"I	æ
+Æ;ä  	 	/
+
+  
+
+ , ûç"	†
+‹;b 
+"e úª	"W	†
+ä<¬ 	  				
+  
+
+ Q õã	"C	 
+Ü<Ú   
+	 	 
+  [ ó˚
+"M	ˆ
+Í;ö 
+
+		%"
+  
+ 
+
+2 Ωé	"$	Ù
+Ú;z 
+M ß"?	∏Ê:‚ 
+%
+ 
+
+  [  ƒ"M	“º:ö 	 	  	
+	 "
+ ] ìã"O	¥å;¢
+  
+  	&	 9 ïÒ"+	öÙ:í 	 
+c î’
+"U	Ùû;∫  
+	
+
+
+	 
+a ò∞	"S	Ë
+¿;≤ 		 	  		
+ 			 
+  
+9 Ø¸
+"+	òÏ;í    
+E ⁄‹	"7	¨®<¬      	= ≥’	"/	»é<¢	 
+ M ñ¨"?	òÏ;‚
+
+ 		 	'] ê§	"O	¸ﬁ;¢#
+
+ 
+   
+	= µ≥	"/	‘î<¢	 		 ê ·¥"Å	˙	Ñ<Í 		 	   	 
+ 	
+
+ Ö ‰ª
+"w	»	Ù<™     	 
+  	ÜÇ				c Â∏	"U	»	Ù<∫ 	
+  	
+
+	
+  
+ 
+. è˚" 	˙	Ñ<j 	 
+	M ¢√"?	˛	Æ=‚		 	
+
+   & •ë	"	å
+<J	
+		K §⁄	"=	¨	ê=J	LÇ
+	Q ¶ "C	¥	⁄=Ú 
+    
+7 ˝º
+")	ñî?ä
+ 	 g Åó	"Y	“Ó>í			
+    
+	  	*Q ƒ÷	"C	˛≤>≤
+	
+  	 		'42
+I ÄÜ
+";	ê¢>“  		5 ˙Ä
+"'	ﬁú?Ç 		 
+  C ¯À
+"5	Ü	Ë>∫ 	  
+
+  	" ¸ÿ	"	Ùñ?:
+	 
+0 ˛£""	ﬁú?J	 
+	
+	& ˘Õ	"	⁄¢?J
+ 	C ∆√"5	ò	Ë>∫
+	 				  	   y ¡ª"k	Ó	®>í!
+ 
+ 		 	
+  
+
+
+  	    5 ˜À	"'	¶	ä?Ç	 
+  ; ¬“"-	¨	ÿ>ö 		
+ 
+* ˇ¥	"	¶	Ü?Z 		
+
+  G ≈ç	"9	‰	Ç>  
+	 "			
+I √ë";	¨	=“
+ 	E È∆"7	ä
+‚>¬	 	     
+ 
+  = ˆ¸	"/	Ç	¯>¢     	
+  0 ˚ÿ""	ˆ†?:		d:*; ı¡"-	ˆ†?ö	  		, ´ƒ
+"	¶	ä?b		i ≠Ô
+"[	æ
+æ?“			    		
+ 
+	
+
+$
+  
+
+U ¿≠
+"G	Ú	†?Ç	 	 	   	 
+ ( ªÂ
+"	í
+¥<R 	 5 éÍ"'	Ç
+ƒ<Ç		 
+= ∫¨
+"/	»
+™<¢    
+( π‚
+"	§
+§<R	 
+ . æì" 	¥
+§<j	  
+
+ = ºº"/	¥
+ <¢ 
+ 
+ K £õ"=	Ü
+Ó<⁄    	 
+
+5 ç‹"'	¥
+ <Ç 
+ 
+  ( ä›"	≤
+“<R 
+
+
+	 ãô"	ö
+ﬁ<"
+" å´"	å
+<:	
+& àˆ"	é
+Ù<J 
+	 K úÕ"=	Í
+¸<⁄  			
+A ùâ	"3	Ê
+“<≤    
+
+
+, ◊à"	¯
+ÿ<b 	  
+5 ‘‰
+"'	Ù
+Ù;Ç
+
+  
+ 7 ûö")	Ê
+“<ä		 	
+  * ”·
+"	ÇÙ<Z   
+2 ﬁñ	"$	à¨=z    $ â«
+"	ê
+å=B s Áï"e	≤
+Æ>˙ 		$'   	 	  
+	
+   Y †…"K	¯	Ù=í
+	
+  	 	6
+ M °å
+"?	“
+»=‚
+   		 
+	( üê	"	Ä¢=R 	  . ’Ç	" 	ä»<j
+		  
+   ›ﬁ"	î‡<2  . ﬂè
+" 	ÇÙ<j 	2 ‹ã"$	ú⁄<z 	 * €⁄
+"	∞»<Z
+	   = ™∫"/	⁄ú<¢		 
+
+	  . “†	" 	⁄¿<j 
+ * ‡ß"	∞ñ<Z 
+		. ∞à	" 	‰™<j  0 ÆÖ	""	Ú¶<r
+	  * ÿ’"	Ü–<Z
+
+/, Úı"	Ùà=b		 4
+ 	( ¥å	"	ÏÃ<R  A ÷À"3	ÏÃ<≤		  
+ 	 I £∑";	∞»<“ 
+    	
+; Ÿè	"-	∆˙<ö 
+
+ Ñ Ùµ	"v	¸ö=∫	
+
+  	
+ ã;	 
+   
+Ü ÛÖ
+"x	¸ö=Ç5	  	
+ 
+    	
+
+		
+I≤0	
+
+ 	K Ë◊	"=	Ó	®>⁄	 
+  
+	
+? Êø"1	ä
+‚>™		
+  
+ 	
+ä ¨≈
+"|	æ§@∫ 	    				  # 	ˆT
+2Ë ø˜"Ÿ	‰ƒ? 
+    		 
+ 			#   
+
+		
+     
+       
+
+
+
+ 	    	    x ÖŸ	"j	å»:í 	   	%Í 
+
+  
+  
+  J Ñò"<	åú:b 
+  	+=j 	  9 É‘
+"+	º˛9í	     A Ç¬"3	¶“:≤	 		   	 	 
+
+
+	C Ü‹
+"5	ÃÇ;∫	 	  	 
+
+	? á´
+"1	ºƒ:™ 
+ = í¶	"/	¸ﬁ;¢	   . ë…
+" 	¥∞;j   
+; ∑ò	"-	ûÍ;ö	
+ 
+ C ∂∫	"5	úñ<∫
+	 	 
+; ≤ê"-	ú‘;ö  		 ; ¨»	"-	»æ;ö		 	 2 ´©"$	‚˛:z     
+G ∏ë
+"9	ûÍ;     		
+
+Q ß≤"C	ÏÄ;Ú		    
+
+
+
+î ©î"Ö	ƒ≤<˙
+
+%	  	
+	    
+
+	 5 ±ç"'	à∫<Ç	
+
+ 
+ 7 ≠ú
+")	≤Ú;ä	
+ 
+
+
+			Å ®æ"s	ƒ≤<≤   				
+    
+ "] ™≈"O	îÆ<¢
+
+ 	  
+ Ä Ò≥"Ò	–Ï>™ ;   
+	  
+  +	
+ 
+		
+ 			  
+	
+	"® ∞ß	"ô	‰ƒ? 
+     	(      	    	 	
+     < 	
+
+    
+  “ ØÅ	"√	Óê=Ú     
+   	   
+
+ 	    5
+ 	 
+€ ≤ö	"Ã	–‘;í	& ∫
+               
+
+   
+
+       S èÙ
+"E	å1⁄r	ÊJ# (79		7z
+ 	
+ A ê±"3	»0Ç	 	
+ 	 
+q ëÆ"c	Ç1Æ∫ 
+ 
+: $
+B 	 	 		 
+		ª–
+	 
+ K íÄ"=	Ú2ÓzA/ ('!(	 &	¢R5 /1Ü ì≠"x	∫2P 
+	 
+
+ 
+ 
+  28W # !	 !2	 
+ E ç¿	"7	“0‘
+ 	4í
+ 
+  		
+
+ 
+	
+ : é€
+",	‹0í*	
+
+		:  		 	:F î˚"8	Œ5x  	 1
+ "
+" $ X7 0 6( «ë"	ä<˙R
+
+  Å »õ"s	Ï<‰≤  	
+ 
+ 	 
+  h …û"Z	∞<Ú*		F¿í 	    	M —ü"?	Ü=⁄í
+  		  	 4B 	4 “Ä	"&	Ñ=Ï* 	J
+s ∆„"e	Ç>¬˙
+  		 
+
+ 	  I  Å";	§>‡“   	  	
+
+ 
+ 
+ 7 À∑")	÷=¢ä
+  ? ‘∫
+"1	í=ÿ™
+ 	 		( Œ˙"	§=ÃR   ∫ œœ"´	¶=¬‚      
+ 
+  	 
+  	ä  		Ç 	
+			 7 –ù	")	¿=‹ä  
+$ Õ»
+"	»=‹B
+ , ﬁû"	¬:∫b
+$  	6 ‰È
+"(	à;†"!	0*Z 		? ‡¶"1	ˆ:ˆ™ 
+    
+ 	; „
+"-	‡;Ùö
+   
+
+ 
+ 
+M ﬂå"?	∞;äí 
+ 
+
+ 	B	 	> €É"0	‹;‡:		 		b
+
+  = ·ú"/	Í;Æ¢	 	 
+
+ $ ⁄Û"	Ê;¥B 
+
+5 ‚°"'	⁄;∫Ç	  ›„
+"	Ï;∂2
+. ‹ò" 	˛;“j	 ~ Ü"q	Ã9ú™ 
+ 
+	  	 
+      	í Ö–"É	¿9ÄÚ 	     
+  
+  
+   
+	§ åÑ"ï	‰:∏∫		
+	
+	
+	
+   
+   
+ 	  		9 ä∑"+	 ;“í 
+ ∞ ã≥"°	®;íÚ
+	  
+  	
+   
+
+  
+  
+
+ 
+ 
+	Gj	 í á¥"É	¨9ÚÚ
+ 
+
+ 
+     
+   	 	
+ 	 O â§"A	∂:ŒÍ 	 	 				y à£"k	–;⁄í		  	  		 
+  
+ 	 
+
+
+      
+ 7 ”ô")	¬<ä
+
+ 	< ÿ‡	".	Í<‚b 	!Z2 e ◊é"W	˛<êR		2‚
+  
+
+
+  		o ÷Á
+"a	¿=∫∫  		 
+	 	 
+	¥ö 
+	  K Ÿ¡
+"=	ä=ˆ⁄ 
+  	Å ’®
+"s	®>‰≤
+  		 
+ 
+   5 Ã»"'	Ë=‰Ç  	H æú	":	⁄=¢ 	     	Ç û ø˝"è	Æ>ûí			   	
+™       	 
+	"	í
+ 
+ 			 ∆’"	Ó=¥
+	  " –‰"	Ó=: 	B  ∆"4	ñ>¿2  	z
+  
+ $ œ‰"	ˆ=Í
+	*F ºè"8	Ã=¬b 	 	9Z  
+	
+> ª˝"0	¬=∆j	j2
+Å ≈¥"s	‚=¬≤			 		 
+
+
+
+ 
+ 
+
+ 	 
+		  	  	 	  —Í"
+	‰=ÜP Õ∂"B	ä>≤j
+   			 	
+ 	 :  Y ƒë"K	Œ=¸˙      		   	 
+ ] ª”	"O	∆>˙¢	    
+
+
+ 	
+	, ºÃ"	˙>b J «“
+"<	†>íB 		
+	 		2b	 	 	5  " Ω•"	Ñ?Ü: 
+  ] ∫€"O	Ú>êÍ 
+	  
+ 
+  
+  
+ 	*  & πÉ"	˛>ºJ  , ∑Ì"	é?®b
+	 
+¨ ÷ÿ
+"ù	∏?¬⁄ !	 	  	
+   
+  
+ 
+	     ∏·	"	é?¿2
+] »“	"O	∫>†Ç	    	"   	b  
+$ ≈Ñ"	®>ÃB	
+ > Œ˘	"0	à>‰B 
+	
+ 			
+, ÀÆ"	§>¯2	 "	7 √’")	®>“ä	 
+
+  
+ 9 …¯	"+	∆>∞í	
+  2 ƒ‘"$	“>‡z	   ? €ù"1	Ê>æ™  	  
+
+	 	. ¡◊" 	¨>‚j	    & ¿â"	º>ËJ 	  
+ 9 Ÿõ"+	‚>®í 
+   * ¬÷"	Œ>‰Z		
+ 
+ 2 ÿÔ"$	à?Äz		 	 U Ã£	"G	Æ>¸Ç		  	 
+  
+	 	  $ Ì‚	"	∏>§B . Î›
+" 	§>Ãj 	    	" ıΩ	"	∆>Ï: 
+ ( Ú∏"	ƒ>ˆR    " Ùñ"	÷>:
+c ﬂª"U	⁄>‚ä
+ 
+  
+ 			V"
+
+	 ›#"	¯>∏2
+ Ó™
+"q	Ó>‡‚   
+ 
+	5;:9 ⁄ò"+	ä?¬í  	 
+- ’" 	¨?öj    H ”™":	Ï?Äj 	   	, " 	;*	. ‹Û" 	ê?‘j 		  c ·ä"U	∏?Ó∫  
+	
+
+
+   
+	 
+ M ◊Ò"?	≤?“‚	
+	   
+
+	 M ‘ˆ"?	º?‰ö   
+	
+  	A:
+ “…"	Í?¬"
+7 ﬁ˜	")	à?Ää 
+	 $ ‡ú"	î?∞B 		G ‚å"9	∂?∏     	
+	i ‰ÿ"[	“?Ëí 	 	 
+ 
+
+	
+
+	=2
+ 		  „„"	î?Ê2
+	 2 ˆí	"$	˛?Êz
+
+  	x ÁÜ	"j	Ç@‚í  
+	 	Í
+
+ 	 	
+
+
+   ¡í"	ö=Í 
+		< Ω©
+".	¶=Ëj 	 			 		~*	
+   2 ¿ﬁ"$	∫=ÏB	   
+	*
+	 	 	. æÈ	" 	–=Êj 
+
+
+  		§ Ïπ	"ï	§>Ã∫	 	      
+        	   
+   9 ø®	"+	‡=‚í	 
+ 
+ 		 6 ¬π"(	é>‚r			
+ 	&
+ $ √”"	‰=ä"  	4 ( ∑Œ"	Ä=¶R	  			 g ∫§"Y	‚<‰B  	"	8 
+	4¢     	   ∏∫"	à=∏" πË"	¿=†	 k È‰	"]	∫>à⁄	     
+
+ 	 k Ë´"]	í>ö⁄	 	
+  
+ 	   l ±˚	"^	Ë> ≤   
+	ö  
+ $ Ûø"	“>ˆB	 
+ . Ô˝" 	‡>¸j 	 	    m Íõ	"_	í?å‚	 	 
+ 
+
+ 	 
+   
+* ¿"	Ó>ÑZ	        Ò°"	Ó>é2
+	 
+s ûŸ"e	ö?∆˙		   
+ 	  	 ( Øî
+"	å>îR 
+  Y ∞†"K	≤>Ü"  	R   		Ç   g ≥û	"Y	Ó>é 		 	  
+	
+       	a ¥¡"S	∞>™:		AÍ	 
+    
+J ∂∂"<	Œ>‹z  	R R	     	 * ≤ì"	Ó>éZ		
+
+p ®∞
+"b	¯>™Ç   		
+ 	⁄ 
+     " µ¸"	‹>¯" 
+	 
+	 ¶ﬂ"	Ç?‚
+	
+S Âé"E	Æ?Ñ˙    		M Êô"?	“?Ë‚ 	        _ ù∆
+"Q	∞?¬™  
+ 
+ 						= ˛Ú"/	÷?ò¢ 
+ 
+      * úØ	"	 ?∏Z  
+ 	Q ˇˆ
+"C	Ú?ºÚ 	 
+
+
+
+   ¸ö"	‹?‘*W ˝™	"I	Ü@∆ä   
+
+  
+	  		Y õ‘"K	‘?íí	   
+ ; ©É
+"-	∫?™ö
+
+  6 £≥"(	‘?Ã*		@R	 	= °‰"/	“?ñ¢     < ßà
+".	™?Ï"	
+
+	B		 	
+  •û"	†?Ó  	
+& ôÜ"	Ë?ÇJ		 ó"	Ï?ä*   ò∫"	Í?å2	   Üµ"	¯?é
+	 
+  àò"	Í?å
+ 	
+" öÙ"	Ë?í" 
+	
+ $ ïä"	Ù?ûB	 	 ñŒ"	?¯" í˘"	˛?ˆ*   áÂ"	ˆ?ê   åí"	¸?Ç2* ä 
+"	˙?Ü2 	 ãº	"
+	Ä@ê  â≠"	Ù?û
+ 		 
+ éÄ"	¯?ú
+	
+ çó"	ˆ?ê*  î˜"	¯?ú2A §≤"3	Ç@∆≤    
+ 
+ 
+
+     üÆ
+"	Ù?Í		 { ^ú"n	¶@¸b	  	Å™
+   	 	X _Ÿ"K	>®í 
+		 		   
+		8 ù¯"*	ò:ö*	Z
+
+O üø"A	Ï9Ç Í 
+   	   	 	  L û "?	º:Ã‚    
+
+8 &à"+	Ê9∞í	 
+		  L )ù"?	®:úR	0BÇ  
+	
+	 ^ (›"Q	Æ:ºR	
+ 
+	n   	 	  ú˜"	ﬁ9¥*G °ê
+"9	∞:ÿ 		
+
+  
+ 7 £º")	:íä 
+
+ 
+  	 C †Ô"5	§:ö∫  
+	
+ 	 y '"m	ƒ:¨ö    
+ 
+  				 	 t kƒ	"g	≤=§‚
+
+        
+ 
+
+
+    	F lÑ"9	¿=î  	   			ã n∂"~	∞>Ïä				    
+  	`6¬    		 	t m˝	"g	Œ>¥‚ 
+  
+ 
+
+
+
+ #	 	1ò `"ã	¶@¸í	
+
+
+
+ 		
+  	 
+
+	 	 	 	 v hÉ"i	¸? ä 		 
+			
+" 
+
+
+ É fü
+"v	é?úÇ    	 	,8™
+
+     	  Ä i„"s	»@‰≤		 	
+   
+
+
+ 		    	£ g–	"ï	ﬁ?†∫      	    
+  	 	  V jï"I	ò?Çj  
+		R^í 
+
+				Ø y¸"°	ˆ?¸Í  	 	
+	
+	     
+  
+ 	 	      	ê x±
+"Ç	º?‚*	 	 Ç≤ 
+     	 	   	    	  	  ~ *ö"q	Ä;ƒ™
+     
+ 	 
+
+    
+ 
+
+	 		  ¡ 7ô"≥	–<Üä 
+
+  		    
+
+
+
+ 
+     
+	5b â =Î"|	ä<¯ö 		 
+	.R™
+
+
+  
+
+	 ≠ <™"ü	∏<‡ä 
+
+	
+	  	 .		  	
+
+	 	 	" ª 8∏"≠	å=¶ä			   
+  	
+	
+
+  	   		 	P		Qb :ç"U	æ=∏∫ 
+	
+)
+ 
+  
+  	Ü +÷"y	Ê<ÿ˙ 
+	  
+
+  
+
+
+     
+  
+  	UB  	L/"  V .œ"I	‡=‹¢ 	    	M"   	* î 6“"Ü	˛=¢B
+ 	-¬	
+ 	   
+ 	     
+ 
+ 	   
+      	     	
+			QÇ		j5Ä p˚"s	é?–≤
+
+
+       	 	  Ñ q¡"w	Ù?Ór  	  			v¬ 
+
+  
+        	É sõ"v	¯?¿¢   	  	nV≤	       	 "  	 8 -™"+	§>‡í  
+
+	
+	 	
+	£ ,"ï	ò>˛⁄	   
+  	 
+
+  	  	 	$R  		à 0∞"{	¸=∂“    
+ 	   
+ 			å ;∂"	ÿ>à‚	 
+  
+   
+		  å 3Ó"˛	û@Ãí		 	 	 			
+ 	     
+ 
+
+
+ 
+
+"
+	 	 	  
+ 	É} 	 ë /à"É	‚>‰™
+ 	
+   
+
+ 
+
+
+
+ 
+ 		   	 
+  	#<	 B ¶æ
+"4	é:ö :		6r
+  
+ 	{ ßŸ
+"m	‚9∏ 
+ 		8Ç 
+
+
+ 
+
+     			j ®ø
+"\	û:˛ ä  
+  		$∫  	  
+  E •õ"7	÷9¥!" 		#Pí
+       		
+k ∞û
+"]	‚9¥!j 	  		‚ 		 y ≤í
+"k	:à"í		   
+
+	 
+ X ≠À"J	ˆ9Ü"2	*
+ 	!j      	*"
+ S ©ﬂ
+"E	⁄:î ˙    		
+ 
+	u ¨¥"g	ä;˙⁄  	    
+ 
+ 
+
+	+I  Ñ ¢%"w	‚:»≤
+  
+  
+  	Z
+   		DQ ™µ"C	à;÷ Ú	 		 	 	  
+
+ g ´◊"Y	†:¸  
+  	  
+  
+
+ 	
+ 	 
+	U ±°	"G	“:û!Ç		
+	
+     
+ 
+
+ã 9Ì"~	û<Ëä   			!|¬
+	
+ 	    	 	ß D¢"ô	ˆ;“ z 	
+ 	!t¬  
+
+
+
+ 
+
+  
+		  	[ Øø	"M	˙: "ö	    
+
+
+
+  
+	  O Æì
+"A	ò:∫"J 	 	|í
+			 , §Ó"	‘:ñ#b
+ 	W PΩ"J	Œ;Ê"Z	 	 	4¢¢  	å 5Ï"	“<Ï‚	  
+    	
+
+
+ 
+  
+ 
+    	 		“ CÒ"ƒ	¥<ä"Í 
+  	 	 		  	~˙ 
+   	 æ ?«"∞	ˆ=¥!Í
+ 	   	 
+ 	  
+ 
+  
+  				
+		•*	± BÁ"£	‡=Ó Ú   	 	 		  	 
+ 
+
+	
+ 
+  £ 4ÿ"ï	Ë=‚ í   	    
+	
+
+
+  	q9ó Nˆ"â	¸<∏"‚		 
+     
+ 
+
+ 
+  
+    			IP  [ Mµ"N	¨<“#Ç	    
+	d6ä 	
+	√ Sé"µ	Ñ<–"í     *   
+
+ 	        		.8] Rá"P	ˆ<æ#Í     
+	Ü/* ~ Qñ"q	ò>÷"™
+ 	 	 	
+
+  
+
+ 
+	
+
+
+ ´ A "ù	∆>Ï⁄
+	   
+   	 
+ 	 
+
+	  ø 2Ê"±	î@Ù™ !
+
+ 
+ 	
+  
+ 	
+
+
+
+  
+ 
+  
+		 
+	  
+
+	• @¥"ó	‹>∆ ¬	 
+	   	   
+
+	    			 		ë >ó"É	¨?Ñ"Ú
+			  
+	  	
+
+
+	 
+ 
+ 
+	
+		
+ 
+ ` Jˇ"S	ê@û Ú 
+  
+	 	
+ 
+	@_2 	ä KÕ"}	∏?Ñ!ö	 
+  	
+ 
+   	aR	 	!R 	 
+ 
+ J Iò"=	¸?¯!⁄  		 
+	
+
+ 
+u O¸"h	™>‹"⁄		 				
+
+	<ö
+
+
+
+		 B Lô"5	Ï>®#∫			 				^ T‹"Q	¢?î"⁄ 	  		 
+	N5B	‡ ±„"—	™‰>™			  
+          
+ 
+
+Œ Æ¢	"ø	–‚@‚
+	 	  	              						 	   ;{ ˜Ø
+"m	®@Üö	  	 
+ 	      
+ 
+    	M ˙ö"?	ò@Œ‚ 
+ 
+
+
+
+= ˘Ø"/	òA⁄¢		  
+
+
+] ˚≈"O	⁄@–¢	0 
+ 		  	5 ÇË
+"'	‡@ŒÇ		
+ O É∞"A	§@¬Í
+ 	 	    ( Ö¯
+"	∂@˛* 
+	   B Ñ…	"4	∞@ﬁz 
+   	2
+ _ ¯ê"Q	ûA¯™ 
+
+  
+  ë–"	å@Ä2
+
+ 	 èı
+"	˛?î"	" ÅÀ"	¢@à" 	
+& ê‰"	ú@à*	 	
+" ìÙ"	é@û:  5 ¢…"'	Ú?¨Ç 
+   	6 ´Í
+"(	∫@§R  	 	A*
+
+$ ™€"	™@ò
+ 	G ÆÙ"9	§@¶≤
+  
+ 
+	
+K ≠≤"=	∂@™⁄  
+	    Äâ
+"
+	 @å < †∆	".	∏@ÿr	 
+ 	R" & ¨‹"	÷@®J	! eµ"	˛@‡"  	 Q
+	 c±	"
+	ñA∏b bﬂ	"U	†Aà"  	CX¬        	 : ë a"Ñ	ú@∫≤       
+ 
+
+  
+  	 ≤      	  X©"	†A‹2 2 d"&	†AåB	 	 
+v Y˛"i	àA˛∫  
+	 
+ 
+ 
+	 EB  	 	à \á	"{	äAÇÚ      
+   
+
+ 	 5R4 ]¬"'	†AˆÇ	  5 W—"(	íAÍb  
+ 	 C ~ [ 	"q	¯@Ï™     
+       
+
+
+
+	Ø zÈ"°	Ñ@Í 
+ 
+    
+      
+
+
+   
+    	   ä wû"}	 @¯⁄	 		      
+  
+  		   	 > t†"1	†A∂™	   
+
+h Zï"[	†A‰∫ 
+
+	 
+   
+
+		 
+ J u≥"=	†AŒ
+ 	 ¬	
+   
+   ~ vÉ	"q	ÄA‹∫
+   
+
+   
+
+	 b   				ì o•"Ö	Ú@“˙	
+ 
+  	 
+   
+ å rœ	"	ú@™‚       
+    
+	   
+ 	
+  		 	M 	"A	†AîÍ
+		 	 ç Ä¥
+"	∏@‚Ç	     
+  
+	Hj 
+	 	?*	 "Å ~"u	ƒ@Ç∫
+	 
+   
+  
+	  		 		q Çé
+"c	†A‚Ú 	
+
+ 
+ 	     		
+Æ }©	"†	éAñ™  
+
+ 	 
+
+	"⁄	   	 	 B + Å"	†A˛b	  ó 1æ"â	æ?íä 
+ 
+   
+	   
+
+  
+ 
+
+ 	 	
+%  	ô GÇ"ã	º@Æ⁄
+ 	* 
+ 
+ 
+  
+   		 
+	.  h E”"[	†A‡≤   
+
+     	o  J |Ô"=	öAÊ≤ 	 	
+
+	R)  Fª"	ûA»
+n HÚ"a	ñAÊÍ         
+ 
+	
+
+ 
+ {"	†Aﬁ" 

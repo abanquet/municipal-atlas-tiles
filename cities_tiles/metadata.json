@@ -1,0 +1,15 @@
+{
+"name": "tiles/cities_tiles",
+"description": "tiles/cities_tiles",
+"version": "2",
+"minzoom": "0",
+"maxzoom": "12",
+"center": "174.858398,-36.914756,12",
+"bounds": "-124.158684,-54.644646,178.106651,65.564300",
+"antimeridian_adjusted_bounds": "-124.158684,-54.644646,178.106651,65.564300",
+"type": "overlay",
+"format": "pbf",
+"generator": "tippecanoe v2.24.0",
+"generator_options": "tippecanoe -z12 --no-tile-compression --force --no-tile-size-limit '--output-to-directory=tiles/cities_tiles' data_raw/cities_oecd_boundaries.geojson",
+"json": "{\"vector_layers\":[{\"id\":\"cities_oecd_boundaries\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":12,\"fields\":{}}],\"tilestats\":{\"layerCount\":1,\"layers\":[{\"layer\":\"cities_oecd_boundaries\",\"count\":1364,\"geometry\":\"LineString\",\"attributeCount\":0,\"attributes\":[]}]}}"
+}

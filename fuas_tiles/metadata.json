@@ -1,0 +1,15 @@
+{
+"name": "tiles/fuas_tiles",
+"description": "tiles/fuas_tiles",
+"version": "2",
+"minzoom": "0",
+"maxzoom": "12",
+"center": "134.252930,34.705486,12",
+"bounds": "-124.158684,-54.644646,177.097648,65.822300",
+"antimeridian_adjusted_bounds": "-124.158684,-54.644646,177.097648,65.822300",
+"type": "overlay",
+"format": "pbf",
+"generator": "tippecanoe v2.24.0",
+"generator_options": "tippecanoe -z12 --no-tile-compression --force --no-tile-size-limit '--output-to-directory=tiles/fuas_tiles' data_raw/fuas_oecd_boundaries.geojson",
+"json": "{\"vector_layers\":[{\"id\":\"fuas_oecd_boundaries\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":12,\"fields\":{}}],\"tilestats\":{\"layerCount\":1,\"layers\":[{\"layer\":\"fuas_oecd_boundaries\",\"count\":1209,\"geometry\":\"LineString\",\"attributeCount\":0,\"attributes\":[]}]}}"
+}

@@ -1,0 +1,15 @@
+{
+"name": "tiles/tl1_dotted_tiles",
+"description": "tiles/tl1_dotted_tiles",
+"version": "2",
+"minzoom": "0",
+"maxzoom": "12",
+"center": "35.903320,33.247868,12",
+"bounds": "24.258563,3.977742,97.347326,36.904754",
+"antimeridian_adjusted_bounds": "24.258563,3.977742,97.347326,36.904754",
+"type": "overlay",
+"format": "pbf",
+"generator": "tippecanoe v2.24.0",
+"generator_options": "tippecanoe -z12 --no-tile-compression --force --no-tile-size-limit '--output-to-directory=tiles/tl1_dotted_tiles' data_raw/tl1_dotted_boundaries.geojson",
+"json": "{\"vector_layers\":[{\"id\":\"tl1_dotted_boundaries\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":12,\"fields\":{}}],\"tilestats\":{\"layerCount\":1,\"layers\":[{\"layer\":\"tl1_dotted_boundaries\",\"count\":20,\"geometry\":\"LineString\",\"attributeCount\":0,\"attributes\":[]}]}}"
+}
